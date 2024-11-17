@@ -1,0 +1,4 @@
+LOCAL: Jaguari
+BAG: 2021-08-19-14-24-47.bag
+DEC: -21.65
+VITA1

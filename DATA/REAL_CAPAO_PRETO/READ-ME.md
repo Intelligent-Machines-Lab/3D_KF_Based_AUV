@@ -1,0 +1,4 @@
+LOCAL: Capão Preto
+BAG: 2021-11-11-16-28-25.bag
+DEC: -21.45
+VITA1
